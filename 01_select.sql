@@ -1,1 +1,4 @@
-SELECT 'Olá Mundo'
+SELECT idCliente,
+    DtCriacao,
+    DtAtualizacao 
+FROM clientes
